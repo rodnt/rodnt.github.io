@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>~/rodnt</title>
-    <link>https://rodnt.github.io/</link>
-    <description>Recent content on ~/rodnt</description>
+    <title>Posts on ~/rodnt</title>
+    <link>https://rodnt.github.io/posts/</link>
+    <description>Recent content in Posts on ~/rodnt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Dec 2023 17:12:34 -0300</lastBuildDate>
-    <atom:link href="https://rodnt.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://rodnt.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PortSwigger Practice Exam</title>
       <link>https://rodnt.github.io/posts/portswigger-practice-exam/</link>
@@ -51,13 +51,6 @@
       <description>HI, People In this basic tutorial, I want to show you a little bit of SQL Injection WAF bypass, I know it is a subject that is well commented and discussed every day .. after all, WAFS are boring :/ and in the end .. they just work as a superficial protection for an environment (in my opnion it is like a leaky bucket that you fix with bubble gum) .</description>
     </item>
     <item>
-      <title></title>
-      <link>https://rodnt.github.io/cve/</link>
-      <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://rodnt.github.io/cve/</guid>
-      <description>My CVEs, not much, however it was nice to learn.&#xA;More information can be found here: https://packetstormsecurity.com/files/author/14480/&#xA;CVE Piwigo SQL Injection - CVE-2023-26876 Wordpress WPvivid Backup Path Travesal - CVE-2022-2863 phpIPAM - CSRF + XSS - CVE-2021-46426 LiquidFiles 3.4.15 stored XSS - CVE-2021-30140 Stored cross-site scripting (XSS) Envira Gallery Lite 1.8.3.3 - CVE-2020-35581 Typesetter CMS Code execution - CVE-2020-25790 Gila CMS 1.11.6 reflected XSS - CVE-2019-20803 Gila CMS 1.11.6 CSRF - CVE-2019-20804 Piwigo - Version 2.</description>
-    </item>
-    <item>
       <title>Bypass NAC ( Network Access Control )</title>
       <link>https://rodnt.github.io/posts/2020-02-02-bypass-nac/</link>
       <pubDate>Sun, 02 Feb 2020 17:12:34 -0300</pubDate>
@@ -77,13 +70,6 @@
       <pubDate>Sun, 02 Feb 2020 17:12:34 -0300</pubDate>
       <guid>https://rodnt.github.io/posts/whoami/</guid>
       <description>root:# cowsay &amp;#39;hi, rodnt here&amp;#39; &amp;lt; hi,rodnt here! &amp;gt; -------------- \ ^__^ \ (oo)\_______ (__)\ )\/\\ ||----w | || || </description>
-    </item>
-    <item>
-      <title>About</title>
-      <link>https://rodnt.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://rodnt.github.io/about/</guid>
-      <description>Name:&#xA;Rodolfo &amp;lsquo;rodnt&amp;rsquo; Tavares Alias:&#xA;rodnt Config:&#xA;BSc En/PT(Brazil) Pentest/Consulting/Red Team Contact me:&#xA;https://twitter.com/rodnt Gmail Researchs&#xA;https://packetstormsecurity.com/files/author/14480/ Mentions/Hall of fame (that i remember 😅, thanks community)&#xA;Informatica Security Researcher Hall of Fame Philips coordinated vulnerability disclosure Hall of Honors Bug bounty playbook man rodnt:&#xA;$ cat infos.txt [*] Skills -&amp;gt; Web application security (appsec/pentesting); -&amp;gt; Mobile application security; -&amp;gt; Infrastructure security; -&amp;gt; Java/Python/Go programmer; -&amp;gt; Secure code review(Java, PHP, JavaScript, Python, Ruby, GoLang); -&amp;gt; Reversing Eng.</description>
     </item>
   </channel>
 </rss>
