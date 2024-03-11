@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on ~/rodnt</title>
+    <title>Posts on ¯\_(ツ)_/¯</title>
     <link>https://rodnt.github.io/posts/</link>
-    <description>Recent content in Posts on ~/rodnt</description>
+    <description>Recent content in Posts on ¯\_(ツ)_/¯</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Dec 2023 17:12:34 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 10 Mar 2024 22:40:38 -0300</lastBuildDate>
     <atom:link href="https://rodnt.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Decrypt WhatsApp Msgs Android (Investigator)</title>
+      <link>https://rodnt.github.io/posts/decryptwhatsappmsgandroid/</link>
+      <pubDate>Sun, 10 Mar 2024 22:40:38 -0300</pubDate>
+      <guid>https://rodnt.github.io/posts/decryptwhatsappmsgandroid/</guid>
+      <description>Overview In this blog post, we&amp;rsquo;ll tackle a compelling challenge: decrypting WhatsApp messages. However, before we dive into the solution, it&amp;rsquo;s crucial to grasp some foundational concepts about how Android—though not all versions—stores your screen lock password. More importantly, we&amp;rsquo;ll explore why reusing this password across other applications, such as WhatsApp, is a security misstep.&#xA;Our journey will begin with an exploration of Android&amp;rsquo;s password storage mechanisms, focusing on the nuances of different versions and how they impact your device&amp;rsquo;s security.</description>
+    </item>
     <item>
       <title>PortSwigger Practice Exam</title>
       <link>https://rodnt.github.io/posts/portswigger-practice-exam/</link>

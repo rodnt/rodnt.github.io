@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>~/rodnt</title>
+    <title>¯\_(ツ)_/¯</title>
     <link>https://rodnt.github.io/</link>
-    <description>Recent content on ~/rodnt</description>
+    <description>Recent content on ¯\_(ツ)_/¯</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Dec 2023 17:12:34 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 10 Mar 2024 22:40:38 -0300</lastBuildDate>
     <atom:link href="https://rodnt.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Decrypt WhatsApp Msgs Android (Investigator)</title>
+      <link>https://rodnt.github.io/posts/decryptwhatsappmsgandroid/</link>
+      <pubDate>Sun, 10 Mar 2024 22:40:38 -0300</pubDate>
+      <guid>https://rodnt.github.io/posts/decryptwhatsappmsgandroid/</guid>
+      <description>Overview In this blog post, we&amp;rsquo;ll tackle a compelling challenge: decrypting WhatsApp messages. However, before we dive into the solution, it&amp;rsquo;s crucial to grasp some foundational concepts about how Android—though not all versions—stores your screen lock password. More importantly, we&amp;rsquo;ll explore why reusing this password across other applications, such as WhatsApp, is a security misstep.&#xA;Our journey will begin with an exploration of Android&amp;rsquo;s password storage mechanisms, focusing on the nuances of different versions and how they impact your device&amp;rsquo;s security.</description>
+    </item>
     <item>
       <title>PortSwigger Practice Exam</title>
       <link>https://rodnt.github.io/posts/portswigger-practice-exam/</link>
@@ -83,7 +90,7 @@
       <link>https://rodnt.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://rodnt.github.io/about/</guid>
-      <description>Name:&#xA;Rodolfo &amp;lsquo;rodnt&amp;rsquo; Tavares Alias:&#xA;rodnt Config:&#xA;BSc En/PT(Brazil) Pentest/Consulting/Red Team Contact me:&#xA;https://twitter.com/rodnt Gmail Researchs&#xA;https://packetstormsecurity.com/files/author/14480/ Mentions/Hall of fame (that i remember 😅, thanks community)&#xA;Informatica Security Researcher Hall of Fame Philips coordinated vulnerability disclosure Hall of Honors Bug bounty playbook man rodnt:&#xA;$ cat infos.txt [*] Skills -&amp;gt; Web application security (appsec/pentesting); -&amp;gt; Mobile application security; -&amp;gt; Infrastructure security; -&amp;gt; Java/Python/Go programmer; -&amp;gt; Secure code review(Java, PHP, JavaScript, Python, Ruby, GoLang); -&amp;gt; Reversing Eng.</description>
+      <description> Name: Rodolfo &amp;lsquo;rodnt&amp;rsquo; Tavares Alias: rodnt Config: BSc En/PT(Brazil) Pentest/Consulting/Red Team Contact me: https://twitter.com/0xrodnt Gmail Research profile https://packetstormsecurity.com/files/author/14480/ </description>
     </item>
   </channel>
 </rss>
