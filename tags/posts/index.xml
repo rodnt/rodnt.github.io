@@ -4,7 +4,7 @@
     <title>Posts on ~/rodnt</title>
     <link>https://rodnt.github.io/posts/</link>
     <description>Recent content in Posts on ~/rodnt</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>jodson -- gojodson.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Dec 2023 17:12:34 -0300</lastBuildDate>
     <atom:link href="https://rodnt.github.io/posts/index.xml" rel="self" type="application/rss+xml" />

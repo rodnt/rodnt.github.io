@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>writeup on ¯\_(ツ)_/¯</title>
+    <title>Writeup on ¯\_(ツ)_/¯</title>
     <link>https://rodnt.github.io/categories/writeup/</link>
-    <description>Recent content in writeup on ¯\_(ツ)_/¯</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Writeup on ¯\_(ツ)_/¯</description>
+    <generator>jodson -- gojodson.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Dec 2023 17:12:34 -0300</lastBuildDate>
     <atom:link href="https://rodnt.github.io/categories/writeup/index.xml" rel="self" type="application/rss+xml" />
