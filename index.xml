@@ -6,8 +6,15 @@
     <description>Recent content on ¯\_(ツ)_/¯</description>
     <generator>jodson -- gojodson.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Mar 2024 22:40:38 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 18 Apr 2024 22:40:38 -0300</lastBuildDate>
     <atom:link href="https://rodnt.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bypass MTLS Flutter</title>
+      <link>https://rodnt.github.io/posts/bypassmtlsflutter/</link>
+      <pubDate>Thu, 18 Apr 2024 22:40:38 -0300</pubDate>
+      <guid>https://rodnt.github.io/posts/bypassmtlsflutter/</guid>
+      <description>Overview In this blog post, we&amp;rsquo;ll tackle: bypassing mTLS with Flutter due to common mistake ( ¯\(ツ)/¯ ) from developers. Before we continue.. into the specifics, it&amp;rsquo;s essential to understand some foundational concepts about how mTLS—mutual Transport Layer Security—functions and why certain coding or configuration errors can compromise its intended security benefits.&#xA;Our journey will begin with an exploration of Flutter&amp;rsquo;s network layer, focusing on the nuances of mTLS implementations and how these can be misconfigured or exploited.</description>
+    </item>
     <item>
       <title>Decrypt WhatsApp Msgs Android (Investigator)</title>
       <link>https://rodnt.github.io/posts/decryptwhatsappmsgandroid/</link>
