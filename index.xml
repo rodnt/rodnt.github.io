@@ -4,7 +4,7 @@
     <title>¯\_(ツ)_/¯</title>
     <link>https://rodnt.github.io/</link>
     <description>Recent content on ¯\_(ツ)_/¯</description>
-    <generator>jodson -- gojodson.io</generator>
+    <generator>  -- go .io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 18 Apr 2024 22:40:38 -0300</lastBuildDate>
     <atom:link href="https://rodnt.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -69,7 +69,7 @@
       <link>https://rodnt.github.io/cve/</link>
       <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
       <guid>https://rodnt.github.io/cve/</guid>
-      <description>My CVEs, not much, however it was nice to learn.&#xA;More information can be found here: https://packetstormsecurity.com/files/author/14480/&#xA;CVE Piwigo SQL Injection - CVE-2023-26876 Wordpress WPvivid Backup Path Travesal - CVE-2022-2863 phpIPAM - CSRF + XSS - CVE-2021-46426 LiquidFiles 3.4.15 stored XSS - CVE-2021-30140 Stored cross-site scripting (XSS) Envira Gallery Lite 1.8.3.3 - CVE-2020-35581 Typesetter CMS Code execution - CVE-2020-25790 Gila CMS 1.11.6 reflected XSS - CVE-2019-20803 Gila CMS 1.11.6 CSRF - CVE-2019-20804 Piwigo - Version 2.</description>
+      <description>My CVEs, not much, however it was nice to learn.&#xA;More information can be found here: https://packetstormsecurity.com/files/author/14480/&#xA;CVE LumisXP - Unauth XSS LumisXP - Unauth XSS LumisXP - Unauth XSS LumisXP - Information Disclosure SeSuite - Code Execution Piwigo SQL Injection - CVE-2023-26876 Wordpress WPvivid Backup Path Travesal - CVE-2022-2863 phpIPAM - CSRF + XSS - CVE-2021-46426 LiquidFiles 3.4.15 stored XSS - CVE-2021-30140 Stored cross-site scripting (XSS) Envira Gallery Lite 1.</description>
     </item>
     <item>
       <title>Bypass NAC ( Network Access Control )</title>
