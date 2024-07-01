@@ -69,7 +69,7 @@
       <link>https://rodnt.github.io/cve/</link>
       <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
       <guid>https://rodnt.github.io/cve/</guid>
-      <description>My CVEs, not much, however it was nice to learn.&#xA;More information can be found here: https://packetstormsecurity.com/files/author/14480/&#xA;CVE LumisXP - Unauth XSS LumisXP - Unauth XSS LumisXP - Unauth XSS LumisXP - Information Disclosure SeSuite - Code Execution Piwigo SQL Injection - CVE-2023-26876 Wordpress WPvivid Backup Path Travesal - CVE-2022-2863 phpIPAM - CSRF + XSS - CVE-2021-46426 LiquidFiles 3.4.15 stored XSS - CVE-2021-30140 Stored cross-site scripting (XSS) Envira Gallery Lite 1.</description>
+      <description>My CVEs, not much, however it was nice to learn.&#xA;More information can be found here: https://packetstormsecurity.com/files/author/14480/&#xA;CVE LumisXP - Unauth XSS - CVE-2024-33329 LumisXP - Unauth XSS - CVE-2024-33328 LumisXP - Unauth XSS - CVE-2024-33327 LumisXP - Information Disclosure - CVE-2024-33326 SeSuite - Code Execution - CVE-2023-26877 Piwigo SQL Injection - CVE-2023-26876 Wordpress WPvivid Backup Path Travesal - CVE-2022-2863 phpIPAM - CSRF + XSS - CVE-2021-46426 LiquidFiles 3.4.15 stored XSS - CVE-2021-30140 Stored cross-site scripting (XSS) Envira Gallery Lite 1.</description>
     </item>
     <item>
       <title>Bypass NAC ( Network Access Control )</title>
